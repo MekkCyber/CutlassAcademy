@@ -55,7 +55,7 @@ CUTE was introduced in CUTLASS 3.0 and represents a significant evolution in NVI
 **PyTorch**
 - [Deep Dive on CUTLASS Ping-Pong GEMM Kernel](https://pytorch.org/blog/cutlass-ping-pong-gemm-kernel/)  
 
-**Nvida**
+**Nvidia**
 - [Implementing High Performance Matrix Multiplication Using CUTLASS v2.8](https://developer.nvidia.com/blog/implementing-high-performance-matrix-multiplication-using-cutlass-v2-8/)
 - [CUTLASS: Fast Linear Algebra in CUDA C++](https://developer.nvidia.com/blog/cutlass-linear-algebra-cuda/) 
 
