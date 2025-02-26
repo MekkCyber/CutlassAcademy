@@ -75,6 +75,7 @@ CUTE was introduced in CUTLASS 3.0 and represents a significant evolution in NVI
 - [Lecture 15: CUTLASS (GPU MODE)](https://www.youtube.com/watch?v=G6q719ck7ww&ab_channel=GPUMODE)
 - [CUTLASS: A CUDA C++ Template Library for Accelerating Deep Learning Computations (The Linux Foundation)](https://www.youtube.com/watch?v=PWWOGrLZtZg&ab_channel=TheLinuxFoundation)
 - [Lecture 36: CUTLASS and Flash Attention 3 (GPU MODE)](https://www.youtube.com/watch?v=JwUcZwPOCpA&t=2831s&ab_channel=GPUMODE)
+- [GTC 2024 : CUTLASS: A Performant, Flexible, and Portable Way to Target Hopper Tensor Cores](https://www.nvidia.com/en-us/on-demand/session/gtc24-s61198/)
 
 
 ### Repos using CUTLASS/CUTE
