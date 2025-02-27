@@ -51,6 +51,25 @@ CUTE was introduced in CUTLASS 3.0 and represents a significant evolution in NVI
 - [CUTE Documentation](https://github.com/NVIDIA/cutlass/tree/main/media/docs/cute)
 - [CUTE Tutorial](https://github.com/NVIDIA/cutlass/tree/main/examples/cute/tutorial)
 
+### GTC
+- [CUTLASS: CUDA TEMPLATE LIBRARY FOR DENSE LINEAR ALGEBRA AT ALL LEVELS AND SCALES (GTC 2018)](./s8854-cutlass-software-primitives-for-dense-linear-algebra-at-all-levels-and-scales-within-cuda.pdf)
+
+- [PROGRAMMING TENSOR CORES: NATIVE VOLTA TENSOR CORES WITH CUTLASS (GTC 2019)](https://developer.download.nvidia.com/video/gputechconf/gtc/2019/presentation/s9593-cutensor-high-performance-tensor-operations-in-cuda-v2.pdf)
+
+- [Developing CUDA Kernels to Push Tensor Cores to the Absolute Limit on NVIDIA A100 (GTC 2020)](https://www.nvidia.com/en-us/on-demand/session/gtcsj20-s21745/)
+
+- [Accelerating Convolution with Tensor Cores in CUTLASS (GTC 2021)](https://www.nvidia.com/en-us/on-demand/session/gtcspring21-s31883/)
+
+- [Accelerating Backward Data Gradient by Increasing Tensor Core Utilization in CUTLASS (GTC 2022)](https://www.nvidia.com/en-us/on-demand/session/gtcspring22-s41996/)
+
+- [CUTLASS: Python API, Enhancements, and NVIDIA Hopper (GTC 2022)](https://www.nvidia.com/en-us/on-demand/session/gtcfall22-a41131/)
+
+- [Developing Optimal CUDA Kernels on Hopper Tensor Cores (GTC 2023)](https://www.nvidia.com/en-us/on-demand/session/gtcspring23-s51413/)
+
+- [CUTLASS: A Performant, Flexible, and Portable Way to Target Hopper Tensor Cores (GTC 2024)](https://www.nvidia.com/en-us/on-demand/session/gtc24-s61198/)
+
+GTC 2025 Coming soon
+
 ### Articles
 **PyTorch**
 - [Deep Dive on CUTLASS Ping-Pong GEMM Kernel](https://pytorch.org/blog/cutlass-ping-pong-gemm-kernel/)  
