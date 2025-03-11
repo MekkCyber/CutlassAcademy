@@ -96,7 +96,6 @@ GTC 2025 Coming soon
 - [Lecture 36: CUTLASS and Flash Attention 3 (GPU MODE)](https://www.youtube.com/watch?v=JwUcZwPOCpA&t=2831s&ab_channel=GPUMODE)
 - [GTC 2024 : CUTLASS: A Performant, Flexible, and Portable Way to Target Hopper Tensor Cores](https://www.nvidia.com/en-us/on-demand/session/gtc24-s61198/)
 
-
 ### Repos using CUTLASS/CUTE
 - [DeepGEMM](https://github.com/deepseek-ai/DeepGEMM)
 - [FlashMLA](https://github.com/deepseek-ai/FlashMLA)
