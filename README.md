@@ -68,7 +68,7 @@ CUTE was introduced in CUTLASS 3.0 and represents a significant evolution in NVI
 
 - [CUTLASS: A Performant, Flexible, and Portable Way to Target Hopper Tensor Cores (GTC 2024)](https://www.nvidia.com/en-us/on-demand/session/gtc24-s61198/)
 
-GTC 2025 Coming soon
+GTC 2025 Coming soon (Cutlass in python coming soon !)
 
 ### Articles
 **PyTorch**
